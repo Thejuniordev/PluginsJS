@@ -1,3 +1,4 @@
+// Adicionando classe para a animação da navbar
 $(function(){
    $(window).scroll(function(){
        var topscroll = $(window).scrollTop();
